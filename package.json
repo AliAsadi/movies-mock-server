@@ -7,7 +7,6 @@
     "start": "node server.js"
   },
   "author": "Ali Asadi",
-  "license": "ISC",
   "dependencies": {
     "json-server": "^0.17.0"
   }
