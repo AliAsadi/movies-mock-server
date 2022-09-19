@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "mock server",
   "main": "server.js",
-  "scripts": { // <===
-    "start": "node server.js" // <===
+  "scripts": {
+    "start": "node server.js"
   },
   "author": "Ali Asadi",
   "license": "ISC",
