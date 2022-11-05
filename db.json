@@ -63,132 +63,38 @@
     {
       "id": 11,
       "title": "All Quiet on the Western Front",
-      "director": "Lewis Milestone",
-      "actors": "Louis Wolheim, Lew Ayres, John Wray, Arnold Lucy",
       "description": "A young soldier faces profound disillusionment in the soul-destroying horror of World War I.",
       "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTM5OTg2NDY1NF5BMl5BanBnXkFtZTcwNTQ4MTMwNw@@._V1_SX300.jpg"
     },
     {
-      "id": 12,
-      "title": "The English Patient",
-      "year": "1996",
-      "runtime": "162",
-      "genres": [
-        "Drama",
-        "Romance",
-        "War"
-      ],
-      "director": "Anthony Minghella",
-      "actors": "Ralph Fiennes, Juliette Binoche, Willem Dafoe, Kristin Scott Thomas",
-      "description": "At the close of WWII, a young nurse tends to a badly-burned plane crash victim. His past is shown in flashbacks, revealing an involvement in a fateful love affair.",
-      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDg2OTcxNDE0OF5BMl5BanBnXkFtZTgwOTg2MDM0MDE@._V1_SX300.jpg"
-    },
-    {
       "id": 13,
       "title": "Dallas Buyers Club",
-      "year": "2013",
-      "runtime": "117",
-      "genres": [
-        "Biography",
-        "Drama"
-      ],
-      "director": "Jean-Marc Vallée",
-      "actors": "Matthew McConaughey, Jennifer Garner, Jared Leto, Denis O'Hare",
       "description": "In 1985 Dallas, electrician and hustler Ron Woodroof works around the system to help AIDS patients get the medication they need after he is diagnosed with the disease.",
       "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTYwMTA4MzgyNF5BMl5BanBnXkFtZTgwMjEyMjE0MDE@._V1_SX300.jpg"
     },
     {
-      "id": 103,
-      "title": "Frida",
-      "year": "2002",
-      "runtime": "123",
-      "genres": [
-        "Biography",
-        "Drama",
-        "Romance"
-      ],
-      "director": "Julie Taymor",
-      "actors": "Salma Hayek, Mía Maestro, Alfred Molina, Antonio Banderas",
-      "description": "A biography of artist Frida Kahlo, who channeled the pain of a crippling injury and her tempestuous marriage into her work.",
-      "image": "http://ia.media-imdb.com/images/M/MV5BMTMyODUyMDY1OV5BMl5BanBnXkFtZTYwMDA2OTU3._V1_SX300.jpg"
-    },
-    {
       "id": 104,
       "title": "Before Sunrise",
-      "year": "1995",
-      "runtime": "105",
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "director": "Richard Linklater",
-      "actors": "Ethan Hawke, Julie Delpy, Andrea Eckert, Hanno Pöschl",
       "description": "A young man and woman meet on a train in Europe, and wind up spending one evening together in Vienna. Unfortunately, both know that this will probably be their only night together.",
       "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQyMTM3MTQxMl5BMl5BanBnXkFtZTcwMDAzNjQ4Mg@@._V1_SX300.jpg"
     },
     {
       "id": 105,
       "title": "The Rum Diary",
-      "year": "2011",
-      "runtime": "120",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "director": "Bruce Robinson",
-      "actors": "Johnny Depp, Aaron Eckhart, Michael Rispoli, Amber Heard",
       "description": "American journalist Paul Kemp takes on a freelance job in Puerto Rico for a local newspaper during the 1960s and struggles to find a balance between island culture and the expatriates who live there.",
       "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5ODA4MjYxM15BMl5BanBnXkFtZTcwMTM3NTE5Ng@@._V1_SX300.jpg"
     },
     {
-      "id": 106,
-      "title": "The Last Samurai",
-      "year": "2003",
-      "runtime": "154",
-      "genres": [
-        "Action",
-        "Drama",
-        "History"
-      ],
-      "director": "Edward Zwick",
-      "actors": "Ken Watanabe, Tom Cruise, William Atherton, Chad Lindberg",
-      "description": "An American military advisor embraces the Samurai culture he was hired to destroy after he is captured in battle.",
-      "image": "http://ia.media-imdb.com/images/M/MV5BMzkyNzQ1Mzc0NV5BMl5BanBnXkFtZTcwODg3MzUzMw@@._V1_SX300.jpg"
-    },
-    {
       "id": 107,
       "title": "Chinatown",
-      "year": "1974",
-      "runtime": "130",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "director": "Roman Polanski",
-      "actors": "Jack Nicholson, Faye Dunaway, John Huston, Perry Lopez",
       "description": "A private detective hired to expose an adulterer finds himself caught up in a web of deceit, corruption and murder.",
       "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BN2YyNDE5NzItMjAwNC00MGQxLTllNjktZGIzMWFkZjA3OWQ0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg"
     },
     {
       "id": 108,
       "title": "Calvary",
-      "year": "2014",
-      "runtime": "102",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "director": "John Michael McDonagh",
-      "actors": "Brendan Gleeson, Chris O'Dowd, Kelly Reilly, Aidan Gillen",
       "description": "After he is threatened during a confession, a good-natured priest must battle the dark forces closing in around him.",
       "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc3MjQ1MjE2M15BMl5BanBnXkFtZTgwNTMzNjE4MTE@._V1_SX300.jpg"
-    },
-    {
-      "id": 109,
-      "title": "Before Sunset",
-      "description": "Nine years after Jesse and Celine first met, they encounter each other again on the French leg of Jesse's book tour.",
-      "image": "http://ia.media-imdb.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_SX300.jpg"
     },
     {
       "id": 110,
@@ -282,28 +188,10 @@
       "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BODg3Mjg0MDY4M15BMl5BanBnXkFtZTcwNjY5MDQ2NA@@._V1_SX300.jpg"
     },
     {
-      "id": 125,
-      "title": "Shrek Forever After",
-      "description": "Rumpelstiltskin tricks a mid-life crisis burdened Shrek into allowing himself to be erased from existence and cast in a dark alternate timeline where Rumpel rules supreme.",
-      "image": "http://ia.media-imdb.com/images/M/MV5BMTY0OTU1NzkxMl5BMl5BanBnXkFtZTcwMzI2NDUzMw@@._V1_SX300.jpg"
-    },
-    {
-      "id": 126,
-      "title": "Before Midnight",
-      "description": "We meet Jesse and Celine nine years on in Greece. Almost two decades have passed since their first meeting on that train bound for Vienna.",
-      "image": "http://ia.media-imdb.com/images/M/MV5BMjA5NzgxODE2NF5BMl5BanBnXkFtZTcwNTI1NTI0OQ@@._V1_SX300.jpg"
-    },
-    {
       "id": 127,
       "title": "Despicable Me",
       "description": "When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.",
       "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY3NjY0MTQ0Nl5BMl5BanBnXkFtZTcwMzQ2MTc0Mw@@._V1_SX300.jpg"
-    },
-    {
-      "id": 128,
-      "title": "Troy",
-      "description": "An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.",
-      "image": "http://ia.media-imdb.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_SX300.jpg"
     },
     {
       "id": 129,
@@ -322,12 +210,6 @@
       "title": "Ice Age",
       "description": "Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.",
       "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyNzI1ODA0MF5BMl5BanBnXkFtZTYwODIxODY3._V1_SX300.jpg"
-    },
-    {
-      "id": 132,
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle Earth from the Dark Lord Sauron.",
-      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNTEyMjAwMDU1OV5BMl5BanBnXkFtZTcwNDQyNTkxMw@@._V1_SX300.jpg"
     },
     {
       "id": 133,
@@ -360,22 +242,10 @@
       "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX300.jpg"
     },
     {
-      "id": 138,
-      "title": "Vertigo",
-      "description": "A San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
-      "image": "http://ia.media-imdb.com/images/M/MV5BNzY0NzQyNzQzOF5BMl5BanBnXkFtZTcwMTgwNTk4OQ@@._V1_SX300.jpg"
-    },
-    {
       "id": 139,
       "title": "Whiplash",
       "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
       "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU4OTQ3MDUyMV5BMl5BanBnXkFtZTgwOTA2MjU0MjE@._V1_SX300.jpg"
-    },
-    {
-      "id": 140,
-      "title": "The Lives of Others",
-      "description": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
-      "image": "http://ia.media-imdb.com/images/M/MV5BNDUzNjYwNDYyNl5BMl5BanBnXkFtZTcwNjU3ODQ0MQ@@._V1_SX300.jpg"
     },
     {
       "id": 141,
@@ -390,22 +260,10 @@
       "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg"
     },
     {
-      "id": 143,
-      "title": "To Kill a Mockingbird",
-      "description": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his kids against prejudice.",
-      "image": "http://ia.media-imdb.com/images/M/MV5BMjA4MzI1NDY2Nl5BMl5BanBnXkFtZTcwMTcyODc5Mw@@._V1_SX300.jpg"
-    },
-    {
       "id": 144,
       "title": "The Hateful Eight",
       "description": "In the dead of a Wyoming winter, a bounty hunter and his prisoner find shelter in a cabin currently inhabited by a collection of nefarious characters.",
       "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA1MTc1NTg5NV5BMl5BanBnXkFtZTgwOTM2MDEzNzE@._V1_SX300.jpg"
-    },
-    {
-      "id": 145,
-      "title": "A Separation",
-      "description": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
-      "image": "http://ia.media-imdb.com/images/M/MV5BMTYzMzU4NDUwOF5BMl5BanBnXkFtZTcwMTM5MjA5Ng@@._V1_SX300.jpg"
     },
     {
       "id": 146,
