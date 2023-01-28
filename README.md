@@ -1,5 +1,5 @@
 # movies-mock-server
 
-https://movies-mock-server.herokuapp.com/
+https://movies-mock-server.vercel.app/
 
 https://github.com/typicode/json-server
